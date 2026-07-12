@@ -1,115 +1,96 @@
-<img align="center" alt="Banner" src="https://user-images.githubusercontent.com/22107794/139580686-887df369-edb8-4bc8-b607-4fbf6d7e4866.gif"/>
 
-<h1 align="left">
-  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>Kadari Arjun Reddy</strong>
-</h1>
+# <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30"/> Hi, I'm **Kadari Arjun Reddy**
 
-<h3>Software Developer | ML Engineer | Full-Stack • AI/ML • Data Analytics</h3>
-
-<div align="left">
-  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
-  <p>
-    I'm a Computer Science graduate student at Stevens Institute of Technology, passionate about building clean, scalable, and purposeful software — from backend logic to polished UI.
-  </p>
-  <p>
-    <img src="https://img.shields.io/badge/📍_Jersey_City,_NJ-1e1e2e?style=for-the-badge" />
-    <a href="mailto:arjunreddykadari89@gmail.com"><img src="https://img.shields.io/badge/📧_arjunreddykadari89@gmail.com-1e1e2e?style=for-the-badge" /></a>
-    <img src="https://img.shields.io/badge/🎓_M.S._Computer_Science_@_Stevens-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🤝_Open_to_Opportunities-1e1e2e?style=for-the-badge" />
-  </p>
-
-<h3>🌐 Socials</h3>
-
-<p align="left">
-  <a href="https://github.com/arjunreddy0729">
-    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/arjun-reddy-95ba4934a">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:arjunreddykadari89@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=220&section=header&text=Kadari%20Arjun%20Reddy&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Software%20Engineer%20%7C%20Machine%20Learning&descAlignY=58"/>
 </p>
 
-  <img src="https://komarev.com/ghpvc/?username=arjunreddy0729&style=flat-square&color=blue" alt="Profile Visits"/>
-</div>
+<p align="center">
+  <a href="mailto:arjunreddykadari89@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://linkedin.com/in/arjun-reddy-95ba4934a"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/arjunreddy0729"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://arjun-portfolio-tawny.vercel.app/en"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"></a>
+</p>
 
-<br clear="all" />
+## 🚀 About Me
 
-## 🏢 Experience
+- 🎓 M.S. Computer Science, **Stevens Institute of Technology**
+- 📍 Jersey City, New Jersey
+- 🤖 Interested in AI Engineering, Machine Learning, Backend Systems, and Cloud
+- 💼 Business Development Intern (AI) at **JOOLA**
+- 🌱 Continuously learning modern AI and software engineering practices
+- 📫 **arjunreddykadari89@gmail.com**
 
-| Role | Company | Period |
-|------|---------|--------|
-| **Graduate Teaching Assistant** | Stevens Institute of Technology | Mar 2026 – Present |
-| **Software Development Intern** | Tata Consultancy Services (TCS) | Dec 2024 – Mar 2025 |
+## 💼 Experience
 
-## 🚀 Featured Projects
+| Role | Organization | Duration |
+|------|--------------|----------|
+| Business Development Intern (AI) | JOOLA | May 2026 – Present |
+| Graduate Teaching Assistant | Stevens Institute of Technology | Mar 2026 – Present |
+| Software Development Intern | Tata Consultancy Services | Dec 2024 – Mar 2025 |
+
+## ⭐ Featured Projects
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| 😀 **Emoji Detection System** | Deep learning-based emoji detection with real-time prediction GUI | Python, TensorFlow, CNN, OpenCV |
-| 🎬 **Movie Recommendation System** | Content-based recommender using TF-IDF on 5,000+ records | Python, Scikit-learn, NLP |
-| 📹 **ConvLSTM Video Classification** | Real-time video classification pipeline deployed with Flask API | TensorFlow, OpenCV, Flask |
-| 💊 **Insurance Price Prediction** | Regression model predicting medical insurance costs | Python, NumPy, Scikit-learn |
+| 😀 Emoji Detection System | CNN-based emoji classification with real-time prediction | Python, TensorFlow, OpenCV |
+| 📚 AI Study Buddy | AI-powered study assistant for summaries, quizzes, flashcards, and Q&A | Python, OpenAI API, Streamlit |
+| 🎬 Movie Recommendation System | Content-based recommendation engine | Python, Scikit-learn |
+| 🎥 ConvLSTM Video Classification | Video classification pipeline | TensorFlow, Flask |
+| 💊 Insurance Price Prediction | ML regression model | Python, Scikit-learn |
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-<p align="center">
-<table>
-<tr>
-<td width="50%" align="center">
-<h3>💻 Programming Languages</h3>
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" />
-<br/><br/>
-</td>
-<td width="50%" align="center">
-<h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,nodejs,tensorflow,flask,tailwind" />
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<h3>🗄️ Databases</h3>
-<img src="https://skillicons.dev/icons?i=mysql,postgresql" />
-<br/><br/>
-</td>
-<td width="50%" align="center">
-<h3>🧰 Tools & Platforms</h3>
-<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vscode" />
-</td>
-</tr>
-</table>
+### Languages
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,sql"/>
 </p>
+
+### Frameworks & AI
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,flask,tensorflow,docker,aws,git,github,postgres,mysql,mongodb"/>
+</p>
+
+### Concepts
+
+`Generative AI` `Machine Learning` `Deep Learning` `CNN` `NLP` `REST APIs` `ETL` `Power BI`
 
 ## 📜 Certifications
 
-<p align="left">
-  <a href="https://coursera.org/share/db02ac3f54f9e69cf25b8e7720f69e51">
-    <img src="https://img.shields.io/badge/Google_Cybersecurity-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <a href="https://certificate.hack2skill.com/user/genai2/2025H2S04GENAI-A100241">
-    <img src="https://img.shields.io/badge/Gen_AI_Academy-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/badges/33da32ed-b249-412e-b0e0-432fc807a6e5/public_url">
-    <img src="https://img.shields.io/badge/AWS_ML_Foundations-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  </a>
+- Google Cybersecurity
+- Gen AI Academy
+- AWS Academy: Machine Learning Foundations
+
+## 📈 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=arjunreddy0729&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunreddy0729&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-## 📊 GitHub Stats
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=arjunreddy0729&theme=tokyonight&hide_border=true"/>
+</p>
 
-<div align="center">
-  <br/>
-  <img src="https://streak-stats.demolab.com?user=arjunreddy0729&theme=dark&hide_border=true" alt="Streak" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=arjunreddy0729&show_icons=true&theme=dark&hide_border=true" alt="GitHub Stats" />
-  <br/><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=arjunreddy0729&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</div>
+## 📊 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=arjunreddy0729&theme=tokyo-night&hide_border=true"/>
+</p>
+
+## 🐍 Contribution Snake
+
+> Enable the `Platane/snk` GitHub Action in your profile repository and replace this section with the generated snake SVG.
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://linkedin.com/in/arjun-reddy-95ba4934a">LinkedIn</a> •
+<a href="https://github.com/arjunreddy0729">GitHub</a> •
+<a href="https://arjun-portfolio-tawny.vercel.app/en">Portfolio</a> •
+<a href="mailto:arjunreddykadari89@gmail.com">Email</a>
+</p>
 
 ---
 
-<p align="center">
-  <i>Building clean, scalable, and purposeful software — one commit at a time.</i>
-</p>
+<p align="center"><i>Building clean, scalable, and impactful software with AI.</i></p>
